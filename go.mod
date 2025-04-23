@@ -1,3 +1,3 @@
 module github.com/Fanil2604/spt12.git
 
-go 1.23.3
+go 1.23
